@@ -1,0 +1,26 @@
+#logo {
+    position: relative;
+    width: 180px;
+    height: 128px;
+    top: 54px;
+    left: 82px;
+    background-color: darkblue;
+}
+
+nav {
+    float: right;
+    top: 80px;
+}
+
+.nav-item {
+    display: inline-block;
+
+    font-family: commuters-sans, sans-serif;
+    font-style: normal;
+    font-size: 21px;
+}
+
+#about {
+    margin-right: 69px;
+    margin-left: 41px;
+}
