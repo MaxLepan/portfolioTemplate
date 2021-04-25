@@ -37,13 +37,18 @@ a:hover {
     top: 45vh;
 }
 
+#projects-container {
+    position: relative;
+    top: 100vh;
+}
+
 
 
 .projects {
     position: relative;
     height: 100vh;
     width: 100vw;
-    top: 100vh;
+
 }
 
 .project-img-container {
@@ -77,10 +82,12 @@ a:hover {
     font: normal normal 21px commuters-sans, sans-serif;
 }
 
-#carousel-projects {
+#carousel {
     position: relative;
     display: inline-flex;
-
+    top: 100vh;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 ul {
